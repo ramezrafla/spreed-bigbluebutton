@@ -1,5 +1,16 @@
 # Nextcloud Talk using Big Blue Button 
 
+## -- Looking for a maintainer --
+
+Since NextCloud opensourced their own signalling server we have migrated back to the original Talk. 
+Our objective is in some sense fulfilled as we believe that open-sourcing was a direct result of our work.
+
+However, if this repo is useful for you, consider becoming a maintainer
+
+> This repo breaks with latest version (19) of NC
+
+# -----
+
 ![](https://raw.githubusercontent.com/ramezrafla/spreed-bigbluebutton/stable18-bbb/docs/talkwithbbb.jpeg)
 
 This is a fork of Nextcloud Talk to use [Big Blue Button](https://bigbluebutton.org/) as the video / audio conferencing server & client instead of Nextcloud's PHP-based signalling engine (or the Nextcloud paid cloud signaling servers)
